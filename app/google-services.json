@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651611628127",
+    "project_id": "ping-calling",
+    "storage_bucket": "ping-calling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651611628127:android:2acdd2d867e24ece19b1ea",
+        "android_client_info": {
+          "package_name": "com.ping.calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651611628127-12qqt7a0bvi4oh20009fbee4lk9u9k1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ping.calling",
+            "certificate_hash": "072060eff39088ff7b4988cde0b0beddcb30dec9"
+          }
+        },
+        {
+          "client_id": "651611628127-stlnan1u3uc0rhl8vcdkreap73stiks2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9oexmbAd0VmSUSI8shlT3AU116I8wck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651611628127-stlnan1u3uc0rhl8vcdkreap73stiks2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
