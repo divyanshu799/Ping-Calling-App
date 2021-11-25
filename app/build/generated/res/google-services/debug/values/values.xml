@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">651611628127-stlnan1u3uc0rhl8vcdkreap73stiks2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">651611628127</string>
+    <string name="google_api_key" translatable="false">AIzaSyCT9oexmbAd0VmSUSI8shlT3AU116I8wck</string>
+    <string name="google_app_id" translatable="false">1:651611628127:android:2acdd2d867e24ece19b1ea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCT9oexmbAd0VmSUSI8shlT3AU116I8wck</string>
+    <string name="google_storage_bucket" translatable="false">ping-calling.appspot.com</string>
+    <string name="project_id" translatable="false">ping-calling</string>
+</resources>
